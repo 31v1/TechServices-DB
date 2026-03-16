@@ -16,9 +16,3 @@ Design and implement a relational database model (normalized up to 3NF) to manag
 - **Service Orders**: Requests with status tracking  
 - **Order History**: Updates and actions performed  
 - **Equipment**: Inventory of devices  
-
-## 🚀 Usage
-To create the database in MySQL:
-
-```bash
-mysql -u your_user -p < scripts/create_database.sql
