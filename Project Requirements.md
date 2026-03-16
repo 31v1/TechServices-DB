@@ -1,7 +1,7 @@
 Project Requirements
 --
 
-## The project consisted of designing and implementing a relational database system for TechServicesCR, an internal technical support company. The database needed to:
+The project consisted of designing and implementing a relational database system for TechServicesCR, an internal technical support company. The database needed to:
 
 Register and track service requests created by employees when reporting issues with their equipment.
 
