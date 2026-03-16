@@ -1,4 +1,4 @@
-Project Requirements
+--Project Requirements
 
 The project consisted of designing and implementing a relational database system for TechServicesCR, an internal technical support company. The database needed to:
 
@@ -14,7 +14,7 @@ The project consisted of designing and implementing a relational database system
 
     Record order history (updates, actions taken, observations, technician responsible).
 
-Key Requirements
+--Key Requirements
 
     Normalization up to Third Normal Form (3NF).
 
